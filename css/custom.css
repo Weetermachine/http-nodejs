@@ -1,0 +1,10 @@
+.bordered {
+	    text-shadow: -1.5px 0 black, 0 1.5px black, 1.5px 0 black, 0 -1.5px black;
+
+    font-family: sans; color: white;
+}
+
+.blurred {
+	filter: blur(8px);
+	-webkit-filter: blur(8px);
+}
